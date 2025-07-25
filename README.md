@@ -10,7 +10,7 @@ This project implements a **Multilingual RAG (Retrieval-Augmented Generation) Sy
 
 ```
 📁 ai-rag-hsc26
-├── main.ipynb
+├── main_cleaned .ipynb
 ├── requirements.txt
 ├── README.md
 ├── test_queries.txt
@@ -72,9 +72,19 @@ Yes. Could be improved using overlapping chunking, larger embeddings, or fine-tu
 ## 📄 License
 MIT
 
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 🙋 Author
 
-Made by Sadia Abrin Neha  
+Made by Sadia Sabrin Neha  
 GitHub: [sadianeeha019](https://github.com/sadianeeha019)
