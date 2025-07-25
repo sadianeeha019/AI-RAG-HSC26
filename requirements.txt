@@ -1,0 +1,8 @@
+faiss-cpu
+openai==1.1.1
+sentence-transformers
+langdetect
+PyMuPDF
+nltk
+fastapi
+uvicorn
